@@ -3,5 +3,5 @@ layout: slide
 title: "Welcome to our second slide!"
 ---
 
-Some Text HERE
+Onwards and UpWards!
 Use the left arrow to go back!
